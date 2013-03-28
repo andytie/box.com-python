@@ -9,5 +9,5 @@ setup(name='box',
       url='https://github.com/platypus-creation/box.com-python',
       license='MIT',
       packages=find_packages(),
-      install_requires=['git+git://github.com/requests/requests-oauthlib.git']
+      install_requires=['git+git://github.com/requests/requests-oauthlib.git',]
 )
